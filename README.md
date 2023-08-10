@@ -1,4 +1,4 @@
-# Data Analysis and Visualization Project: Exploring Relationships Between Neighborhoods, Districts, Zip Codes, and Home Prices in New York City
+# Data Analysis and Visualization Project: Exploring Relationships Between Neighborhoods, Districts, Zip Codes etc. and Home Prices in New York City
 Description:
 This project focuses on analyzing and visualizing the relationships between various factors such as neighborhoods, districts, zip codes, and the year built, and how they relate to home prices in New York City. While an artificial intelligence model was utilized to predict home prices, it's important to note that due to limitations in the quality of available data and the lack of significant correlations among variables, the model's performance might not meet the desired expectations. Nevertheless, the primary emphasis of this project lies in the exploration, analysis, and visualization of the relationships among the provided data points.
 
